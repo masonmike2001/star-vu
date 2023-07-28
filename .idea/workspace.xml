@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a2a373d-aaf7-4159-b50f-d606cdce4665" name="Changes" comment="Created basic ui for img and coordinate input">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/star-vu" afterDir="false" />
-    </list>
+    <list default="true" id="5a2a373d-aaf7-4159-b50f-d606cdce4665" name="Changes" comment="Created basic ui for img and coordinate input" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
